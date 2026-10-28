@@ -100,27 +100,78 @@ See the [Tableau calculated-fields reference](Meridian_Mart_Calculated_Fields.pd
 
 **California:**
 
-Sales: **$531.8K** 
-Profit**$66.6K**; 
+Sales - **$531.8K**
 
-**New York**
+Profit - **$66.6K **
+
+**New York :**
+
 Sales - **$300.8K**
+
 Profit - **$42.5K** 
 
-**Colorado **
+**Colorado :**
+
 Sales - **$119.4K** 
+
 Profit - **-$4.5K in losses**. 
-Strong revenue alone is not a reliable indicator of healthy margin.
+
+**Implications:** Strong revenue alone is not a reliable indicator of healthy margin.
 
 ### 2. Subcategory losses are concentrated
 
 **Tables : -$88.7K** (**71% Losses**)
+
 **Machines - (-$36.5K)**
 
-Both account for roughly **$125.2K** of combined negative subcategory profit. These are high-priority areas for deeper cost, pricing and product-level investigation.
+**Implications:** Both account for roughly **$125.2K** of combined negative subcategory profit. These are high-priority areas for deeper cost, pricing and product-level investigation.
 
 ### 3. Profit deteriorates across higher observed discount bands
 
-Average profit is about **$379 at 0% discount**, **$81 at 20%**, and **-$116 at 40%**. This is an association in the dataset, not proof that discounts alone caused losses. The dashboard's displayed approval cue of **less than 30%** is a working commercial indicator, **not a statistically validated break-even discount**.
+Average profit = **$379 at 0% discount**,
+
+**$81 at 20%**
+
+ **-$116 at 40%**.
+
+**Implications:** This is an association in the dataset, not proof that discounts alone caused losses. The dashboard's displayed approval cue of **less than 30%** is a working commercial indicator, **not a statistically validated break-even discount**.
+
+### Customer segments
+
+**Consumer:**
+**Sales** - **$2.22M**
+
+**Profit** - **$221K**
+
+**Corporate:**
+
+**Sales** - **$1.42M**
+
+**Profits** - **$156K**
+
+**Home Office:**
+
+Sales - **$0.83M **
+
+Profit - **$103K**
+
+**Implications** : Home Office had the highest approximate margin of these segments despite its smaller sales base.
+
+### Yearly trends
+
+2024 recorded approximately **$1.22M sales and $151.5K profit**, the strongest year shown. The presented analysis indicates that sales declined about **17% in 2025** compared with 2024.
+
+### Fulfilment
+
+Standard Class handled the largest displayed order volume (**1,235**), while First Class had the highest displayed profit per order (**approximately $301**). Same Day averaged roughly **0.5–0.6 days** across regions; Standard Class averaged about **5.4–5.5 days**.
+
+## Strategic recommendations
+
+1. **Investigate Tables and Machines first:** review selling prices, product-level profitability, discount patterns and costs before changing the product range.
+2. **Review discounts by margin, not revenue:** introduce an evidence-based approval process for unusually deep discounts and validate the threshold with more granular profitability tests.
+3. **Prioritise profitable growth markets:** examine whether approaches used in California and New York could transfer to comparable markets, while investigating Colorado's losses.
+4. **Grow high-margin segments carefully:** test targeted offers for Home Office customers without sacrificing margin.
+5. **Improve operational planning:** track Standard Class service levels and test whether premium shipping is profitable after fulfilment costs.
+6. **Track profit alongside sales:** monitor category, city, region and segment profit trends to avoid rewarding volume that erodes margin.
 
 
